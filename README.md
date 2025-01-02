@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to explor
 - 🥅 2025 Goals: Contribute to open-source projects and expand my skillset in cloud computing and mobile app development.
 - ⚡ Fun fact: I love solving algorithmic challenges in my spare time and enjoy learning about new tech trends.
 
+## 🌟 My GitHub Stars
+
+![GitHub stars](https://img.shields.io/github/stars/tigNungguKena5?style=social)
+
 ## 📈 GitHub Stats
 
 ![tigNungguKena5's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigNungguKena5&show_icons=true&theme=radical)
